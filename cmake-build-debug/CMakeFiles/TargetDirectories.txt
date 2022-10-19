@@ -1,0 +1,3 @@
+C:/Users/user/Documents/git 2osoba/git-kurs/cmake-build-debug/CMakeFiles/git_kurs.dir
+C:/Users/user/Documents/git 2osoba/git-kurs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/git 2osoba/git-kurs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
